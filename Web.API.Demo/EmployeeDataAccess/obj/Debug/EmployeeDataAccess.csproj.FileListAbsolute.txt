@@ -1,0 +1,11 @@
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\Training\Web.API.Demo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\Web.API.Demo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\Training\Web.API.Demo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\Training\Web.API.Demo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\Training\Web.API.Demo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
